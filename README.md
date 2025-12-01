@@ -110,11 +110,6 @@ Further reading & files
 - Troubleshooting guide: `TROUBLESHOOTING.md` in this folder
 - Examples: `Originals/examples` and `examples/`
 
-If you're using the Raspberry Pi (Linux) host (not the Pico)
------------------------------------------------------------
-For Raspberry Pi host users, see the original `tree.py` (which is Linux/gpiozero based). Use the original host README or the `Originals` folder for the full Raspbian-based usage instructions.
-
-Contact
 -------
 If you're still stuck, paste your `diag_test.run()` output along with your strip model (APA102 or part number), whether you're using a level shifter, and a short description of how the Pico is powered and wired. I can then help you further.
 
